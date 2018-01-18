@@ -7,32 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a17b047-6193-45d1-98ef-84bd5278b187" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/proxy.conf.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/item/item.component.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/item/item.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/item/item.component.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/item/item.component.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/items/items.component.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/items/items.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/items/items.component.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/display/items/items.component.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/forms/customer-sign-in-form/customer-sign-in-form.component.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/forms/customer-sign-in-form/customer-sign-in-form.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/forms/customer-sign-in-form/customer-sign-in-form.component.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/forms/customer-sign-in-form/customer-sign-in-form.component.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/models/Item.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/ng-front/src/assets/placeholder.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/config/ConfigProperties.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/AddressController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/CategoryController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/CreditCardController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/CustomerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/ItemController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/OrderController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/OrderLineController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/web/ProductController.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstSpringMVCWebApp_WAR/FirstSpringMVCWebApp-WAR.war" afterPath="$PROJECT_DIR$/out/artifacts/FirstSpringMVCWebApp_WAR/FirstSpringMVCWebApp-WAR.war" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/README.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/angular-cli.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/e2e/app.e2e-spec.ts" afterPath="" />
@@ -26110,7 +26085,6 @@
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/app/app.component.spec.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/app/app.component.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/app/app.module.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/aviews/src/assets/.gitkeep" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/environments/environment.prod.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/environments/environment.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/favicon.ico" afterPath="" />
@@ -26121,31 +26095,6 @@
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/test.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/src/tsconfig.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/resources/aviews/tslint.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front" afterPath="$PROJECT_DIR$/resources/ng-front" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/.angular-cli.json" afterPath="$PROJECT_DIR$/resources/ng-front/.angular-cli.json" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/package.json" afterPath="$PROJECT_DIR$/resources/ng-front/package.json" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/src/app/app.component.html" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/src/app/app.component.ts" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/src/app/app.module.ts" afterPath="$PROJECT_DIR$/resources/ng-front/src/app/app.module.ts" />
-      <change beforePath="$PROJECT_DIR$/resources/ng-front/src/index.html" afterPath="$PROJECT_DIR$/resources/ng-front/src/index.html" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/DataSourceAndJPAConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/config/DataSourceAndJPAConfiguration.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/WebConfig.java" afterPath="$PROJECT_DIR$/src/main/java/config/WebConfig.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Order.java" afterPath="$PROJECT_DIR$/src/main/java/entities/Order.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojos/Concept.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/AspectController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/DataSourceAndJPAConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/config/DataSourceAndJPAConfiguration.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/Order.class" afterPath="$PROJECT_DIR$/target/classes/entities/Order.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pojos/Concept.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/AspectController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/first-springMVC-application-1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-web.HomeControllerTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/web.HomeControllerTest.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26806,8 +26755,8 @@
       <file leaf-file-name="AddressController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/web/AddressController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="467">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
                 <element signature="e#711#712#0" expanded="true" />
                 <element signature="e#765#766#0" expanded="true" />
@@ -27593,12 +27542,20 @@
       <workItem from="1515707592967" duration="5140000" />
       <workItem from="1515759267355" duration="9424000" />
       <workItem from="1515932207365" duration="16939000" />
-      <workItem from="1516282244455" duration="1781000" />
+      <workItem from="1516282244455" duration="2274000" />
     </task>
+    <task id="LOCAL-00001" summary="Added components">
+      <created>1516284891775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516284891775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134746000" />
+    <option name="totallyTimeSpent" value="135239000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -27611,6 +27568,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -27624,7 +27582,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30482116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28605577" sideWeight="0.4848485" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28605577" sideWeight="0.4848485" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -27710,6 +27668,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -27758,6 +27717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
           <caret line="110" column="18" lean-forward="false" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -27772,6 +27732,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -27787,6 +27748,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -27794,6 +27756,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -27822,6 +27785,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="95" column="18" lean-forward="false" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -29266,8 +29230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/web/AddressController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="467">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
             <element signature="e#711#712#0" expanded="true" />
             <element signature="e#765#766#0" expanded="true" />
