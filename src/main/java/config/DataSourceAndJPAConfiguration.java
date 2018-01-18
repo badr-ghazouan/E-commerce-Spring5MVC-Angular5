@@ -2,6 +2,7 @@ package config;
 
 
 
+import org.hibernate.dialect.MySQL5Dialect;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
@@ -28,6 +29,9 @@ import java.util.Arrays;
         entityManagerFactoryRef = "localContainerEntityManagerFactory")
 public class DataSourceAndJPAConfiguration {
 
+    @Autowired
+    ApplicationContext applicationContext;
+
 
     @Bean
     public DataSource createDataSource()
@@ -52,6 +56,7 @@ public class DataSourceAndJPAConfiguration {
         lcemf.setJpaVendorAdapter(jpaVendorAdapter);
         lcemf.setPackagesToScan("entities");
 
+
         System.out.println("Creating Entity Manager Factory Bean ...");
 
         return lcemf;
@@ -65,7 +70,7 @@ public class DataSourceAndJPAConfiguration {
         hibernateJpaVendorAdapter.setDatabase(Database.MYSQL);
         hibernateJpaVendorAdapter.setShowSql(true);
         hibernateJpaVendorAdapter.setGenerateDdl(true);
-        hibernateJpaVendorAdapter.setDatabasePlatform("org.hibernate.dialect.MySQLDialect");
+        hibernateJpaVendorAdapter.setDatabasePlatform("org.hibernate.dialect.MySQL5Dialect");
 
         return hibernateJpaVendorAdapter;
     }
@@ -75,6 +80,9 @@ public class DataSourceAndJPAConfiguration {
     {
         return new JpaTransactionManager();
     }
+
+
+
 
 
 

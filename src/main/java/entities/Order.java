@@ -12,6 +12,7 @@ public class Order {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ORDER_ID")
     protected long id;
+
     @Column(name = "ORDER_ORDER_DATE")
     protected Date orderDate;
 

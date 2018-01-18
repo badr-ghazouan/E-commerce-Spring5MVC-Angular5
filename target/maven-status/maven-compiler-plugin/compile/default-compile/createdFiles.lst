@@ -1,6 +1,0 @@
-config/WebConfig.class
-web/AspectController.class
-pojos/Concept.class
-web/HomeController.class
-config/FirstSpringMVCWebAppInitializr.class
-config/RootConfig.class
